@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectModuleManager">
-    <modules />
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/butterfly/butterfly.iml" filepath="$PROJECT_DIR$/butterfly/butterfly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fatpo/fatpo.iml" filepath="$PROJECT_DIR$/fatpo/fatpo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmenttest/fragmenttest.iml" filepath="$PROJECT_DIR$/fragmenttest/fragmenttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework/homework.iml" filepath="$PROJECT_DIR$/homework/homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsontest/jsontest.iml" filepath="$PROJECT_DIR$/jsontest/jsontest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meshtest/meshtest.iml" filepath="$PROJECT_DIR$/meshtest/meshtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/mylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myviewpager/myviewpager.iml" filepath="$PROJECT_DIR$/myviewpager/myviewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qq_2012/qq_2012.iml" filepath="$PROJECT_DIR$/qq_2012/qq_2012.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shadertest/shadertest.iml" filepath="$PROJECT_DIR$/shadertest/shadertest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/showwave/showwave.iml" filepath="$PROJECT_DIR$/showwave/showwave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingmenulib/slidingmenulib.iml" filepath="$PROJECT_DIR$/slidingmenulib/slidingmenulib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingmunulibtest/slidingmunulibtest.iml" filepath="$PROJECT_DIR$/slidingmunulibtest/slidingmunulibtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/surfaceview/surfaceview.iml" filepath="$PROJECT_DIR$/surfaceview/surfaceview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/touchtest/touchtest.iml" filepath="$PROJECT_DIR$/touchtest/touchtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/touchtest2/touchtest2.iml" filepath="$PROJECT_DIR$/touchtest2/touchtest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagertest/viewpagertest.iml" filepath="$PROJECT_DIR$/viewpagertest/viewpagertest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/美好食光/美好食光.iml" filepath="$PROJECT_DIR$/美好食光/美好食光.iml" />
+    </modules>
   </component>
 </project>
