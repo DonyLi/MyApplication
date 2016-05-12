@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/comment_layout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#fffcfcfc"
+    android:orientation="vertical"
+    android:visibility="visible">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1.0px"
+        android:background="@drawable/split_line"
+        >
+    </View>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingBottom="10dp"
+        android:paddingLeft="15dp"
+        android:paddingTop="10dp"
+        >
+
+        <ScrollView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <EditText
+                android:id="@+id/comment_input"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bar_search_gray"
+                android:gravity="top|left|center"
+                android:hint="我想说两句"
+                android:maxLength="3000"
+                android:maxLines="4"
+                android:paddingLeft="3dp"
+                android:paddingRight="3dp"
+                android:textColor="#ff323232"
+                android:textColorHint="#ff999999"
+                android:textSize="15sp"/>
+        </ScrollView>
+
+        <ImageView
+            android:id="@+id/comment_commit"
+            android:layout_width="40dp"
+            android:layout_height="28dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/selector_btn_recipe_add_comment"/>
+
+    </LinearLayout>
+
+</LinearLayout>

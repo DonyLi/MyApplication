@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:orientation="vertical"
+                tools:context="com.example.touchtest2.BlankFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <com.example.touchtest2.MyViewpager
+        android:id="@+id/vp1"
+        android:layout_width="match_parent"
+        android:layout_height="150dp">
+
+    </com.example.touchtest2.MyViewpager>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/vp1"
+        android:background="@color/colorPrimary"
+        android:text="23232323"/>
+
+</RelativeLayout>

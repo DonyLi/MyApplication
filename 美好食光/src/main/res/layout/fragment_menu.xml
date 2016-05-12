@@ -1,0 +1,68 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context="com.example.meihaoshiguang.MenuFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:orientation="vertical"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp">
+
+        <CheckedTextView
+            android:id="@+id/menu_home"
+            style="@style/menu_text"
+            android:checked="true"
+            android:drawableLeft="@drawable/selector_menu_home_img"
+            android:text="首页"
+            android:textColor="@color/text_black_color" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="#44444444" />
+
+        <CheckedTextView
+            android:id="@+id/menu_menu"
+            style="@style/menu_text"
+            android:drawableLeft="@drawable/selector_menu_menu_img"
+            android:text="菜谱分类"
+            android:textColor="@color/text_black_color" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="#44444444"
+            android:textColor="@color/text_black_color" />
+
+        <CheckedTextView
+            android:id="@+id/menu_photo"
+            style="@style/menu_text"
+            android:drawableLeft="@drawable/selector_menu_photo_img"
+            android:text="随拍"
+            android:textColor="@color/text_black_color" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="#44444444" />
+
+        <CheckedTextView
+            android:id="@+id/menu_setting"
+            style="@style/menu_text"
+            android:drawableLeft="@drawable/selector_menu_setup_img"
+            android:text="设置"
+            android:textColor="@color/text_black_color" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="#44444444" />
+    </LinearLayout>
+
+
+</LinearLayout>

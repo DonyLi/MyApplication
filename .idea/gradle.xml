@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\androidstudio\gradle\gradle-2.4" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/butterfly" />
+            <option value="$PROJECT_DIR$/fatpo" />
+            <option value="$PROJECT_DIR$/fragmenttest" />
+            <option value="$PROJECT_DIR$/homework" />
+            <option value="$PROJECT_DIR$/jsontest" />
+            <option value="$PROJECT_DIR$/meshtest" />
+            <option value="$PROJECT_DIR$/mylibrary" />
+            <option value="$PROJECT_DIR$/myviewpager" />
+            <option value="$PROJECT_DIR$/qq_2012" />
+            <option value="$PROJECT_DIR$/shadertest" />
+            <option value="$PROJECT_DIR$/showwave" />
+            <option value="$PROJECT_DIR$/slidingmenulib" />
+            <option value="$PROJECT_DIR$/slidingmunulibtest" />
+            <option value="$PROJECT_DIR$/surfaceview" />
+            <option value="$PROJECT_DIR$/touchtest" />
+            <option value="$PROJECT_DIR$/touchtest2" />
+            <option value="$PROJECT_DIR$/viewpagertest" />
+            <option value="$PROJECT_DIR$/美好食光" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

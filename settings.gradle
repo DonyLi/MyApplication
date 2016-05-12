@@ -1,0 +1,1 @@
+include ':app', ':homework', ':meshtest', ':shadertest', ':fatpo', ':butterfly', ':surfaceview', ':viewpagertest', ':美好食光', ':mylibrary', ':slidingmenulib', ':slidingmunulibtest', ':myviewpager', ':touchtest', ':touchtest2', ':showwave', ':jsontest', ':qq_2012', ':fragmenttest'
