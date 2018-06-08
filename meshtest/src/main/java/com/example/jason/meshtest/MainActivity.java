@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
         private final int COUNT = (WIDTH + 1) * (HEIGHT + 1);
         private final float[] verts = new float[COUNT * 2];
         private final float[] orig = new float[COUNT * 2];
+        private final float[] orig1 = new float[COUNT * 2];
 
         public MyView(Context context, int drawableId) {
             super(context);
